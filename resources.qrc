@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/toolbaricon">
+        <file>img/file_add.png</file>
+        <file>img/file_delete.png</file>
+        <file>img/folder_add.png</file>
+        <file>img/folder_delete.png</file>
+    </qresource>
+</RCC>
